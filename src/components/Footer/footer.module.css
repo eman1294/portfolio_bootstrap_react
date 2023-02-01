@@ -1,0 +1,33 @@
+footer{
+    margin-top: 80px;
+    background-color: #2c3e50;
+    padding-top: 80px;
+}
+ .copy{
+    background-color: #1a252f;
+    font-size: 14px;
+}
+footer h3{
+    padding-bottom: 20px;
+}
+footer p {
+    font-size: 20px;
+    text-align: justify;
+}
+footer p a{
+    color:#1abc9c;
+}
+.si {
+    padding: 15px;
+    border-radius: 50%;
+    border: #fff solid 1px;
+}
+.si i{
+    color: #fff;
+}
+.si:hover i{
+color: #1abc9c;
+}
+.si:hover{
+    background-color: #fff;
+}

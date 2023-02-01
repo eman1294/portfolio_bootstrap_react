@@ -1,0 +1,20 @@
+.contact_title{
+    color: #2c3e50;
+    font-size: 35px;
+}
+.contact_title h2{
+    font-size: 50px;  
+    text-align: center;
+}
+form label{
+    font-size: 1.5rem;
+    color: #6c757d;
+}
+form textarea::placeholder{
+    color: #6c757d;
+    font-size: 1.5rem;
+}
+ form button{
+    background-color: #1abc9c;
+    border: #1abc9c;
+ }

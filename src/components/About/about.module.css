@@ -1,0 +1,19 @@
+.about{
+    background-color: #1abc9c;
+}
+.about_title{
+    color: #fff;
+    font-size: 35px;
+}
+.about_title h2{
+    font-size: 50px;  
+    text-align: center;
+}
+.about_title p{
+    font-size: 35px !important;
+}
+.about p{
+    color: #fff;
+    text-align: justify;
+    font-size: 19px;
+}

@@ -1,0 +1,15 @@
+.header{
+    height: 100%;
+    padding-top: 10rem;
+    padding-bottom: 6rem;
+    text-align: center;
+   background-color:  #1abc9c;
+   color: #fff;
+}
+.header h1{
+    font-size: 4rem;
+    font-weight: 600;
+}
+.header p{
+    font-size: 40px;
+}
